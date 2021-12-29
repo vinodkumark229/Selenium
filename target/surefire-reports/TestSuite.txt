@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.383 sec <<< FAILURE!
+openAplication(com.herokuapp.tests.LoginTest)  Time elapsed: 0.231 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.sample.commonLib.CommonMethods.launchBrowser(String, String)" because "this.commonMethods" is null
+	at com.herokuapp.tests.LoginTest.openAplication(LoginTest.java:27)
+
