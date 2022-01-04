@@ -1,0 +1,300 @@
+2021-12-29 19:37:20,199  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 08:53:11,083  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 08:53:11,091 ERROR [main] CommonMethods:43 - Launching Chrome Browser
+ 2021-12-30 08:53:11,091  WARN [main] CommonMethods:44 - Launching Chrome Browser
+ 2021-12-30 08:53:11,092 DEBUG [main] CommonMethods:45 - Launching Chrome Browserx
+ 2021-12-30 08:53:11,092 FATAL [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 08:53:11,093 DEBUG [main] CommonMethods:48 - Launching Chrome Browser
+ 2021-12-30 09:00:04,159  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 09:00:04,174 ERROR [main] CommonMethods:43 - Launching Chrome Browser
+ 2021-12-30 09:00:04,175  WARN [main] CommonMethods:44 - Launching Chrome Browser
+ 2021-12-30 09:00:04,175 DEBUG [main] CommonMethods:45 - Launching Chrome Browserx
+ 2021-12-30 09:00:04,176 FATAL [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 09:00:04,176 DEBUG [main] CommonMethods:48 - Launching Chrome Browser
+ 2021-12-30 09:01:24,916  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 09:01:24,918 ERROR [main] CommonMethods:43 - Launching Chrome Browser
+ 2021-12-30 09:01:24,918  WARN [main] CommonMethods:44 - Launching Chrome Browser
+ 2021-12-30 09:01:24,918 DEBUG [main] CommonMethods:45 - Launching Chrome Browserx
+ 2021-12-30 09:01:24,918 FATAL [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 09:01:24,919 DEBUG [main] CommonMethods:48 - Launching Chrome Browser
+ 2021-12-30 09:01:40,339  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 09:01:40,342 ERROR [main] CommonMethods:43 - Launching Chrome Browser
+ 2021-12-30 09:01:40,343  WARN [main] CommonMethods:44 - Launching Chrome Browser
+ 2021-12-30 09:01:40,343 DEBUG [main] CommonMethods:45 - Launching Chrome Browserx
+ 2021-12-30 09:01:40,343 FATAL [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 09:01:40,343 DEBUG [main] CommonMethods:48 - Launching Chrome Browser
+ 2021-12-30 09:01:54,627  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 09:01:54,628 ERROR [main] CommonMethods:43 - Launching Chrome Browser
+ 2021-12-30 09:01:54,628  WARN [main] CommonMethods:44 - Launching Chrome Browser
+ 2021-12-30 09:01:54,629 DEBUG [main] CommonMethods:45 - Launching Chrome Browserx
+ 2021-12-30 09:01:54,629 FATAL [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 09:01:54,629 DEBUG [main] CommonMethods:48 - Launching Chrome Browser
+ 2021-12-30 09:02:32,012  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 09:02:32,015 ERROR [main] CommonMethods:43 - Launching Chrome Browser
+ 2021-12-30 09:02:32,015  WARN [main] CommonMethods:44 - Launching Chrome Browser
+ 2021-12-30 09:02:32,015 DEBUG [main] CommonMethods:45 - Launching Chrome Browserx
+ 2021-12-30 09:02:32,015 FATAL [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 09:02:32,016 DEBUG [main] CommonMethods:48 - Launching Chrome Browser
+ 2021-12-30 11:33:17,887  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:33:20,575  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:33:24,510  INFO [main] LoginTest:39 - Executing After Suite
+ 2021-12-30 11:34:56,466  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:34:58,420  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:36:44,691  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:36:46,615  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:36:50,292  INFO [main] LoginTest:39 - Executing After Suite
+ 2021-12-30 11:37:45,378  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:37:47,420  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:38:52,901  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:39:47,808  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:40:30,959  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:40:45,125  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:41:17,832  INFO [main] LoginTest:39 - Executing After Suite
+ 2021-12-30 11:41:39,769  INFO [main] LoginTest:27 - Executing Before Suite
+ 2021-12-30 11:41:41,828  INFO [main] CommonMethods:42 - Launching Chrome Browser
+ 2021-12-30 11:41:46,506  INFO [main] LoginTest:39 - Executing After Suite
+ 2021-12-30 11:43:59,403  INFO [main] LoginTest:28 - Executing Before Suite
+ 2021-12-30 11:44:01,397  INFO [main] CommonMethods:47 - Launching Chrome Browser
+ 2021-12-30 11:44:05,151  INFO [main] LoginTest:40 - Executing After Suite
+ 2021-12-30 12:14:05,709  INFO [main] LoginTest:30 - Executing Before Suite
+ 2021-12-30 12:14:07,658  INFO [main] CommonMethods:46 - Launching Chrome Browser
+ 2021-12-30 12:14:12,868 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 12:14:12,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 12:14:12,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 12:14:12,871 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 12:14:12,871 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 12:14:13,027  INFO [main] LoginTest:46 - Executing After Suite
+ 2021-12-30 12:44:19,639  INFO [main] LoginTest:30 - Executing Before Suite
+ 2021-12-30 12:44:22,260  INFO [main] CommonMethods:47 - Launching Chrome Browser
+ 2021-12-30 12:44:22,261 ERROR [main] CommonMethods:55 - Exception occured in launchBrowser() - java.lang.NullPointerException: Cannot invoke "com.relevantcodes.extentreports.ExtentTest.log(com.relevantcodes.extentreports.LogStatus, String)" because "com.sample.commonLib.CommonMethods.test" is null
+ 2021-12-30 12:46:10,700  INFO [main] LoginTest:30 - Executing Before Suite
+ 2021-12-30 12:46:12,377  INFO [main] CommonMethods:52 - Launching Chrome Browser
+ 2021-12-30 12:46:16,199 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 12:46:16,200 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 12:46:16,201 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 12:46:16,201 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 12:46:16,201 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 12:46:16,373  INFO [main] LoginTest:45 - Executing After Suite
+ 2021-12-30 12:57:11,484  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-30 12:57:13,164  INFO [main] CommonMethods:52 - Launching Chrome Browser
+ 2021-12-30 12:57:16,859 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 12:57:16,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 12:57:16,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 12:57:16,862 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 12:57:16,863 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 12:57:17,013  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-30 13:01:17,677  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-30 13:01:19,395  INFO [main] CommonMethods:51 - Launching Chrome Browser
+ 2021-12-30 13:01:24,096 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 13:01:24,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 13:01:24,098 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 13:01:24,098 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 13:01:24,099 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 13:01:24,266  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-30 13:02:31,931  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-30 13:02:33,578  INFO [main] CommonMethods:51 - Launching Chrome Browser
+ 2021-12-30 13:02:37,721 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 13:02:37,723 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 13:02:37,723 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 13:02:37,724 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 13:02:37,725 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 13:02:37,872  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-30 13:03:20,766  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-30 13:03:22,399  INFO [main] CommonMethods:51 - Launching Chrome Browser
+ 2021-12-30 13:03:26,465 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 13:03:26,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 13:03:26,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 13:03:26,468 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 13:03:26,468 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 13:03:26,615  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-30 13:05:06,881  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-30 13:05:08,536  INFO [main] CommonMethods:51 - Launching Chrome Browser
+ 2021-12-30 13:05:12,769 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 13:05:12,770 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 13:05:12,771 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 13:05:12,772 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 13:05:12,772 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 13:05:12,948  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-30 18:39:53,037  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-30 18:39:55,701  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2021-12-30 18:40:01,968 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-30 18:40:01,971 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-30 18:40:01,975 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-30 18:40:01,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-30 18:40:01,979 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-30 18:40:02,492  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-31 09:10:08,993  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-31 09:10:12,887  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2021-12-31 09:10:18,322  INFO [main] CommonMethods:71 - Clicking on login button
+ 2021-12-31 09:10:18,555 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-31 09:10:18,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-31 09:10:18,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-31 09:10:18,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-31 09:10:18,562 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-31 09:10:18,757  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-31 09:16:26,265  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-31 09:16:28,274  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2021-12-31 09:16:32,997  INFO [main] CommonMethods:100 - Entered tomsmith into By.cssSelector: #username field
+ 2021-12-31 09:16:33,080  INFO [main] CommonMethods:100 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2021-12-31 09:16:33,840  INFO [main] CommonMethods:71 - Clicking on login button
+ 2021-12-31 09:16:34,088 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-31 09:16:34,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-31 09:16:34,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-31 09:16:34,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-31 09:16:34,092 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-31 09:16:34,277  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-31 09:17:17,336  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-31 09:17:19,276  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2021-12-31 09:17:25,017  INFO [main] CommonMethods:100 - Entered tomsmith into By.cssSelector: #username field
+ 2021-12-31 09:17:25,110  INFO [main] CommonMethods:100 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2021-12-31 09:17:25,890  INFO [main] CommonMethods:71 - Clicking on login button
+ 2021-12-31 09:17:26,001 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-31 09:17:26,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-31 09:17:26,009 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-31 09:17:26,011 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-31 09:17:26,013 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-31 09:17:26,469  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-31 09:20:05,322  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-31 09:20:07,295  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2021-12-31 09:20:12,359 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-31 09:20:12,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-31 09:20:12,361 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-31 09:20:12,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-31 09:20:12,362 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-31 09:20:12,503  INFO [main] LoginTest:41 - Executing After Suite
+ 2021-12-31 09:28:04,168  INFO [main] LoginTest:26 - Executing Before Suite
+ 2021-12-31 09:28:06,310  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2021-12-31 09:28:10,827 ERROR [main] CommonMethods:102 - Element - By.cssSelector: #usernameww not found.
+ 2021-12-31 09:28:11,146  INFO [main] CommonMethods:93 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2021-12-31 09:28:11,969  INFO [main] CommonMethods:71 - Clicking on login button
+ 2021-12-31 09:28:11,992 ERROR [main] CommonMethods:76 - Click is not performed properly, please check. Here is the execption - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[href$='logout']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TGU1DELL0095', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\CHANDR~1.NET\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:65148}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c6cec5985a6a0e566afe87fb49bb7b36
+*** Element info: {Using=css selector, value=[href$='logout']}
+ 2021-12-31 09:28:12,095 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2021-12-31 09:28:12,098 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2021-12-31 09:28:12,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2021-12-31 09:28:12,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2021-12-31 09:28:12,105 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2021-12-31 09:28:12,600  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-03 19:24:26,477  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-03 19:24:31,575  INFO [main] CommonMethods:53 - Launching Chrome Browser
+ 2022-01-03 19:24:36,477 ERROR [main] CommonMethods:102 - Element - By.cssSelector: #usernameww not found.
+ 2022-01-03 19:24:36,881  INFO [main] CommonMethods:93 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-03 19:24:37,763  INFO [main] CommonMethods:71 - Clicking on login button
+ 2022-01-03 19:24:37,789 ERROR [main] CommonMethods:76 - Click is not performed properly, please check. Here is the execption - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[href$='logout']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TGU1DELL0095', ip: '10.31.23.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\CHANDR~1.NET\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:64808}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d4fe5d1683148b2cd0a5f8ae193d98f
+*** Element info: {Using=css selector, value=[href$='logout']}
+ 2022-01-03 19:24:37,879 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-03 19:24:37,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-03 19:24:37,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-03 19:24:37,889 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-03 19:24:37,889 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-03 19:24:38,341  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-03 19:26:58,791  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-03 19:27:00,939  INFO [main] CommonMethods:56 - Launching Chrome Browser
+ 2022-01-03 19:27:08,749 ERROR [main] CommonMethods:105 - Element - By.cssSelector: #usernameww not found.
+ 2022-01-03 19:27:08,938  INFO [main] CommonMethods:96 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-03 19:27:09,898  INFO [main] CommonMethods:74 - Clicking on login button
+ 2022-01-03 19:27:09,932 ERROR [main] CommonMethods:79 - Click is not performed properly, please check. Here is the execption - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[href$='logout']"}
+  (Session info: headless chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TGU1DELL0095', ip: '10.31.23.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\CHANDR~1.NET\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:65000}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a4ee4ab4869dfdbf7082924f04b43d87
+*** Element info: {Using=css selector, value=[href$='logout']}
+ 2022-01-03 19:27:09,965 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-03 19:27:09,966 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-03 19:27:09,967 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-03 19:27:09,968 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-03 19:27:09,968 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-03 19:27:10,124  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-03 19:28:14,587  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-03 19:28:16,812  INFO [main] CommonMethods:57 - Launching Chrome Browser
+ 2022-01-03 19:28:21,389 ERROR [main] CommonMethods:106 - Element - By.cssSelector: #usernameww not found.
+ 2022-01-03 19:28:21,607  INFO [main] CommonMethods:97 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-03 19:28:22,330  INFO [main] CommonMethods:75 - Clicking on login button
+ 2022-01-03 19:28:22,355 ERROR [main] CommonMethods:80 - Click is not performed properly, please check. Here is the execption - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"[href$='logout']"}
+  (Session info: chrome=96.0.4664.110)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TGU1DELL0095', ip: '10.31.23.220', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\CHANDR~1.NET\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:65040}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76fedfa86cda4e74561722356df1053a
+*** Element info: {Using=css selector, value=[href$='logout']}
+ 2022-01-03 19:28:22,457 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-03 19:28:22,460 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-03 19:28:22,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-03 19:28:22,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-03 19:28:22,467 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-03 19:28:22,983  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-03 19:28:52,150  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-03 19:28:54,346  INFO [main] CommonMethods:57 - Launching Chrome Browser
+ 2022-01-03 19:28:59,069  INFO [main] CommonMethods:97 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-03 19:28:59,169  INFO [main] CommonMethods:97 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-03 19:29:00,199  INFO [main] CommonMethods:75 - Clicking on login button
+ 2022-01-03 19:29:00,305 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-03 19:29:00,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-03 19:29:00,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-03 19:29:00,314 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-03 19:29:00,315 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-03 19:29:00,808  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-03 19:53:10,821  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-03 19:53:13,043  INFO [main] CommonMethods:57 - Launching Chrome Browser
+ 2022-01-03 19:53:17,933  INFO [main] CommonMethods:97 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-03 19:53:18,053  INFO [main] CommonMethods:97 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-03 19:53:19,218  INFO [main] CommonMethods:75 - Clicking on login button
+ 2022-01-03 19:53:19,340 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-03 19:53:19,344 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-03 19:53:19,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-03 19:53:19,351 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-03 19:53:19,352 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-03 19:53:19,839  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-04 08:44:50,274  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-04 08:44:54,079  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-04 08:44:59,046  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-04 08:44:59,184  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-04 08:44:59,976  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-04 08:45:00,092 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-04 08:45:00,094 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-04 08:45:00,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-04 08:45:00,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-04 08:45:00,101 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-04 08:45:00,554  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-04 08:45:20,764  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-04 08:45:23,125  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-04 08:45:28,001  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-04 08:45:28,155  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-04 08:45:29,329  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-04 08:45:29,448 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-04 08:45:29,451 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-04 08:45:29,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-04 08:45:29,456 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-04 08:45:29,457 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-04 08:45:29,973  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-04 08:46:00,234  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-04 08:46:02,276  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-04 08:46:10,668  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-04 08:46:10,754  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-04 08:46:11,445  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-04 08:46:11,497 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-04 08:46:11,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-04 08:46:11,499 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-04 08:46:11,500 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-04 08:46:11,501 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-04 08:46:11,658  INFO [main] LoginTest:41 - Executing After Suite
+ 

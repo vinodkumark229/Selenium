@@ -15,18 +15,24 @@ import org.testng.annotations.Test;
 
 import com.herokuapp.appLib.FormPage;
 import com.herokuapp.templates.TestTemplate;
+import com.relevantcodes.extentreports.LogStatus;
 import com.sample.commonLib.CommonMethods;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LoginTest extends TestTemplate {
-
+	
 	@Test
 	public void verifyLogin() {		
-		FormPage loginPage = new FormPage(super.getObject().getDriver());
-		loginPage.enterUsername();
-		loginPage.enterPassword();
-		loginPage.clickLoginBtn();		
-	}
-	
+		try {
+			test = reporter.startTest("Verify Login");
+			loginPage.enterUsername();
+			loginPage.enterPassword();
+			loginPage.clickLoginBtn();
+			test.log(LogStatus.PASS,"Test case passed.");
+		} catch (Exception e) {
+			test.log(LogStatus.FAIL,"Test case failed with exception - "+e);		
+			
+		}		
+	}	
 }
