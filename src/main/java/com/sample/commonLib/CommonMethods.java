@@ -52,7 +52,7 @@ public class CommonMethods {
 				WebDriverManager.chromedriver().setup();
 				ChromeOptions options = new ChromeOptions();
 				
-				options.addArguments("headless");
+//				options.addArguments("headless");
 				options.addArguments("start-maximized");
 				driver = new ChromeDriver(options);
 				logger.info("Launching Chrome Browser");					

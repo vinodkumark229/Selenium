@@ -297,4 +297,48 @@ Session ID: 76fedfa86cda4e74561722356df1053a
  2022-01-04 08:46:11,500 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
  2022-01-04 08:46:11,501 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
  2022-01-04 08:46:11,658  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-04 19:57:12,219  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-04 19:57:17,478  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-04 19:57:24,015  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-04 19:57:24,209  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-04 19:57:26,289  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-04 19:57:26,406 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-04 19:57:26,409 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-04 19:57:26,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-04 19:57:26,416 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-04 19:57:26,417 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-04 19:57:26,918  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-04 19:57:44,881  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-04 19:57:46,733  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-04 19:57:51,774  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-04 19:57:51,867  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-04 19:57:52,909  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-04 19:57:52,962 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-04 19:57:52,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-04 19:57:52,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-04 19:57:52,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-04 19:57:52,965 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-04 19:57:53,108  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-05 09:09:06,400  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-05 09:09:08,646  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-05 09:09:16,600  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-05 09:09:16,647  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-05 09:09:17,284  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-05 09:09:17,319 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-05 09:09:17,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-05 09:09:17,321 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-05 09:09:17,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-05 09:09:17,322 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-05 09:09:17,445  INFO [main] LoginTest:41 - Executing After Suite
+ 2022-01-05 09:09:47,448  INFO [main] LoginTest:26 - Executing Before Suite
+ 2022-01-05 09:09:49,088  INFO [main] CommonMethods:58 - Launching Chrome Browser
+ 2022-01-05 09:09:54,149  INFO [main] CommonMethods:98 - Entered tomsmith into By.cssSelector: #username field
+ 2022-01-05 09:09:54,199  INFO [main] CommonMethods:98 - Entered SuperSecretPassword! into By.cssSelector: #password field
+ 2022-01-05 09:09:55,106  INFO [main] CommonMethods:76 - Clicking on login button
+ 2022-01-05 09:09:55,157 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+ 2022-01-05 09:09:55,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+ 2022-01-05 09:09:55,159 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+ 2022-01-05 09:09:55,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+ 2022-01-05 09:09:55,161 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/chandrakanth.nettem/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+ 2022-01-05 09:09:55,358  INFO [main] LoginTest:41 - Executing After Suite
  
