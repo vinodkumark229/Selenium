@@ -7,7 +7,7 @@ import com.sample.commonLib.CommonMethods;
 
 public class FormPage extends CommonMethods {
 	
-	By username_loc = By.cssSelector("#username");
+	By username_loc = By.cssSelector("#usernam");
 	By password_loc = By.cssSelector("#password");
 	By login_loc = By.cssSelector("button[type='submit']");
 	By logout_loc = By.cssSelector("[href$='logout']");
